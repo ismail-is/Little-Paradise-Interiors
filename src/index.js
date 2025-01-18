@@ -85,7 +85,7 @@ import ServicePage from './components/LittleParadise/ServicePage';
 class Root extends Component {
     render() {
         return(
-                <Router  basename="/">
+                <Router  basename="/Little-Paradise-Interiors">
 	                <div>
 	                <Switch>
 	                    <Route exact path="/" component={HomeV2} />
