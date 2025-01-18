@@ -172,7 +172,7 @@ class Root extends Component {
                                                 {/* Little Paradise */}
 
                      <Route path="/InteriorDesign" component={ InteriorDesign} />
-                     <Route path="/Service" component={ServicePage} />
+                     <Route path="/Services" component={ServicePage} />
 
                                                 {/* Little Paradise */}
 	                </Switch>
